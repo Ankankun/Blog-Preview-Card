@@ -1,4 +1,4 @@
-# Frontend Mentor - Blog preview card solution
+# Blog preview card 
 
 This is my solution to the [Blog preview card challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). It’s a small, single-card UI built with semantic HTML and modern CSS, matching the provided design with hover states and clean typography.
 
