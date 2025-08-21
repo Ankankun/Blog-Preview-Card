@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Outfit:wght@100..900&display=swap");
+
+body {
+  background-color: #f4d04e;
+  font-family: "Figtree", sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.card {
+  display: inline-block;
+  background-color: #ffffff;
+  padding: 24px;
+  margin: 14vh auto;
+  border: 1px solid #111111;
+  border-radius: 20px;
+  text-align: left;
+  box-shadow: 8px 8px black;
+}
+
+.blog-image {
+  border-radius: 10px;
+}
+
+.content {
+  margin-top: 24px;
+}
+
+.tag {
+  display: inline-block;
+  background-color: #f4d04e;
+  padding: 4px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.publish {
+  margin-top: 12px;
+  font-size: 14px;
+}
+
+.title {
+  color: #111111;
+  font-weight: bolder;
+  margin-top: 12px;
+  font-size: 24px;
+  line-height: 150%;
+}
+
+.title:hover {
+  color: #f4d04e;
+}
+
+.description {
+  color: #6b6b6b;
+  margin-top: 12px;
+  font-size: 16px;
+  line-height: 150%;
+}
+
+.author {
+  margin-top: 24px;
+}
+
+.pfp {
+  width: 32px;
+  height: 32px;
+  margin-right: 12px;
+  vertical-align: middle;
+}
+
+.name {
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 5.5px 0;
+}
+
+.attribution {
+  font-size: 16px;
+}
+
+.attribution a {
+  text-decoration: none;
+  color: #6b6b6b;
+}
+
+.attribution a:hover {
+  text-decoration: underline;
+  color: rgba(0, 0, 0, 0.8);
+}
