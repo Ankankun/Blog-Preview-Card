@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/blog-preview-card-using-css-box-model-SIqEjqAYO_
+- Solution URL: https://www.frontendmentor.io/solutions/blog-preview-card-using-css-box-model-SIqEjqAYO_ 
   
 - Live Site URL: https://ankankun.github.io/Blog-Preview-Card/
 
