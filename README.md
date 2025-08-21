@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <!-- Add your Frontend Mentor solution URL -->
-- Live Site URL: <!-- Add your GitHub Pages URL once deployed -->
+- Solution URL: https://ankankun.github.io/Blog-Preview-Card/
+- Live Site URL: https://ankankun.github.io/Blog-Preview-Card/
 
 ## My process
 
